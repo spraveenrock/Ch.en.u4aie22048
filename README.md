@@ -27,7 +27,8 @@ Chart.js
 ![Average Stock Price Endpoint](Question1/screenshots/stockprice.png)
 
 📌 Question 2: Frontend UI
-![alt text](question2/screenshots/stockpage.png) 
+![alt text](question2/screenshots/stockpage.png)
+![alt text](question2/screenshots/dynamic_dropdown.png) 
 ![alt text](question2/screenshots/stock_mobile_view.png) 
 ![alt text](question2/screenshots/Heatmap_page.png) 
 ![alt text](question2/screenshots/Heatmap_mobile_view.png) 
